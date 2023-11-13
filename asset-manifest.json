@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seonnieee/forum_board/static/css/main.e6c13ad2.css",
+    "main.js": "/seonnieee/forum_board/static/js/main.0b480777.js",
+    "static/js/787.d8cb321e.chunk.js": "/seonnieee/forum_board/static/js/787.d8cb321e.chunk.js",
+    "index.html": "/seonnieee/forum_board/index.html",
+    "main.e6c13ad2.css.map": "/seonnieee/forum_board/static/css/main.e6c13ad2.css.map",
+    "main.0b480777.js.map": "/seonnieee/forum_board/static/js/main.0b480777.js.map",
+    "787.d8cb321e.chunk.js.map": "/seonnieee/forum_board/static/js/787.d8cb321e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0b480777.js"
+  ]
+}
